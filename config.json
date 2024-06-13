@@ -1,0 +1,31 @@
+{
+"_aciklama": "delaylar milisaniye olarak hesaplaniyor 1 saniye = 1000 1 dakika = 60000 file nameye mesaj dosyasinin adi",
+  "channels": [
+    { "id": "1241885343066751070", "delay": 300000, "fileName": "animedef", "image": "", "video": "" },
+    { "id": "952654285135544440", "delay": 60000, "fileName": "jeffo", "image": "", "video": "" },
+    { "id": "1128038142075752639", "delay": 60000, "fileName": "jeffo", "image": "", "video": "" },
+    { "id": "1082733595275309186", "delay": 300000, "fileName": "mm2", "image": "", "video": "" }
+  ],
+  "_aciklama": "auto dm mesaji",
+  "afkMessage": "",
+  "enableDelayedAfkMessage": true,
+  "_aciklama": "hesap tokeni",
+  "botToken": "MTEzOTY0MzQwNzM3NjA2MDQzNg.GyKLdD.mltp9gkpY3dWy_2bj08aGzaW6RCMdUKpZfmNcY",
+  "_aciklama": "elleme test module",
+  "excludedUserId": "",
+  "_aciklama": "webhook urlsi",
+  "webhookUrl": "https://discord.com/api/webhooks/1175155543166427167/p44WGe5S-nwkFKYYn8RdoP_VLsPU7OkhOAECrI8xONFlVtgCaSl3cn_7SGG_C0eCr3JO",
+  "webhookName": "The Messanger of GOD",
+  "webhookAvatarURL": "https://icon2.cleanpng.com/20180329/zpq/kisspng-nazareth-christianity-clip-art-jesus-christ-5abd15d9260348.5876548015223413371557.jpg",
+  "_aciklama": "bot olarak kullanilcak hesabin idsi",
+  "userId": "1199331067862196255",
+  "_aciklama": "ana hesap idsi",
+  "mainAccId": "935628211042267237",
+  "_aciklama": "kac saniyede bir tekrar denesin yapamazsa default 5 saniye 1 saniye = 1000 1 dakika = 60000",
+  "retryDelay": 5000,
+  "_aciklama": "pinglemek istiyosaniz true",
+  "includeMention": false,
+  "_aciklama": "buraya pinglemek istediğiniz idleri yazınız",
+  "mentionUserIds": [""],
+  "blockedKeywords": [""]
+}
